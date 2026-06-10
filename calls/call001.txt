@@ -1,0 +1,15 @@
+0xBRIER CALL #001
+Date: 2026-06-10
+Market: Polymarket "What price will Bitcoin hit in June?" — bucket "↓ 50,000"
+Resolution: Binance BTC/USDT 1m candle low <= $50,000 before Jun 30 2026 23:59 ET
+Side: BUY NO — filled @ 87.0c
+Market-implied P(touch): 13.0%
+My calibrated P(touch): 8.0% [range 4.6–11.8%]
+Edge: +5.0 pts on NO
+Sizing: 1/4 Kelly capped at 4% bankroll
+Thesis: (1) Deribit DVOL ~43% implies ~4.6% touch; even with full put-skew
+and negative drift, model tops out below market price. (2) Structural
+favorite-longshot bias on deep OTM buckets. (3) May CPI landed in-line
+(4.2%) today; residual crash premium is over-feared.
+Loss scenario: Iran escalation or cascade through $54.6k support.
+This is my probability, published before resolution. Not investment advice.
