@@ -50,6 +50,17 @@ def verify_hashes(rows):
     return ok
 
 
+
+def cluster_breakdown(rows):
+    clusters = {}
+    for r in rows:
+        clusters.setdefault(r.get("cluster", "unclassified"), []).append(r)
+    print("Calls by cluster:")
+    for c, rs in sorted(clusters.items()):
+        resolved = [r for r in rs if r["outcome"] in ("0", "1")]
+        print(f"  {c}: {len(rs)} call(s), {len(resolved)} resolved")
+    print()
+
 def brier(probs_and_outcomes):
     return sum((p - o) ** 2 for p, o in probs_and_outcomes) / len(probs_and_outcomes)
 
@@ -75,6 +86,7 @@ def main():
     resolved = [r for r in rows if r["outcome"] in ("0", "1")]
     open_calls = [r for r in rows if r["outcome"] == "open"]
 
+    cluster_breakdown(rows)
     print(f"Open calls: {len(open_calls)}")
     print(f"Resolved calls: {len(resolved)}\n")
 
