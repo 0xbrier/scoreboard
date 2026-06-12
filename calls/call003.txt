@@ -1,0 +1,19 @@
+0xBRIER CALL #003
+Date: 2026-06-12
+Market: Polymarket "Fed Decision in July?" — bucket "25 bps increase"
+Resolution: FOMC rate decision, Jul 29 2026
+Side: BUY YES — filled @ 5.0c
+Market-implied P(25bps hike): 4.9% (de-vigged ask)
+My calibrated P: 7.7% [range 6-9%]
+Edge: +2.7 pts on YES
+Sizing: 1/4 Kelly (~0.7% bankroll)
+Thesis: (1) Fed funds futures (ZQN6, 318k prior OI) imply 8.4% hike
+probability for July — up from 0.0% one month ago, repriced on the
+oil/strait inflation shock. (2) The ECB just hiked on the same energy
+impulse; the scenario is live, not theoretical. (3) Futures barely moved
+on de-escalation headlines (8.3% -> 8.4% overnight) — the rates market
+is not buying the "war is over" narrative the crowd is selling at 5c.
+Loss scenario (~92% likely): de-escalation holds, oil retraces, Fed
+holds on Jul 29, position goes to zero. This is a positive-EV bet I
+expect to lose most of the time.
+This is my probability, published before resolution. Not investment advice.
