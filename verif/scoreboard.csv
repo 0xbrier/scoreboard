@@ -1,0 +1,3 @@
+call_id,date_published,market,question,side,fill_price_cents,market_prob,my_prob,resolution_deadline,outcome,cluster,sha256
+001,2026-06-10,Polymarket,"BTC touches $50,000 in June 2026 (Binance 1m low)",NO,87.0,0.130,0.080,2026-06-30,open,crypto-btc-down,e663c984a0640bed50371560cd6bff92967f4f6c97d6d2097476b8332afa842b
+002,2026-06-11,Polymarket,"SpaceX IPO day-1 closing price >= $250",NO,95.5,0.045,0.015,2026-06-12,open,equity-ipo,658b5f88b62b1aea64a237f15ce20b983707111515dc059e5fb0f8c7b4c04d7b
