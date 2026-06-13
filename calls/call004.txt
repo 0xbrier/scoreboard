@@ -1,0 +1,24 @@
+0xBRIER CALL #004
+Date: 2026-06-13
+Market: Polymarket "ECB Interest Rates: July 2026" — bucket "25 bps increase"
+Resolution: ECB Governing Council monetary policy decision, July 2026 meeting
+Side: BUY NO on the hike — filled @ 83.0c
+Market-implied P(July hike): 18.6% (de-vigged ask)
+My calibrated P(July hike): 12% [range 9-15%]
+Edge: ~+6 pts on the fade (NO)
+Sizing: 1/4 Kelly (cap), reduced for residual geopolitical risk
+Thesis: (1) The ECB almost always changes policy at meetings that carry new
+staff projections (March / June / Sept / Dec). July has none -> a structural
+bias toward waiting until September. (2) The June 11 hike (depo to 2.25%) was
+framed as "robust across scenarios" - wait-and-see language, not a guided
+sequence - and the euro-area economy contracted in Q1 2026. (3) Headlines point
+to Hormuz de-escalation (US-Iran deal floated); if oil retraces, the very
+trigger for a July move fades.
+Contrast with #003: there I BACKED a Fed hike the crowd underpriced; here I FADE
+an ECB hike the crowd overprices. Follow the price gap, not a directional story.
+Loss scenario: a sharp Hormuz escalation forces an exceptional July hike despite
+the absence of projections. Low probability, but the main risk.
+Key uncertainty (stated plainly): my 12% rests on the ECB-projections structural
+argument. If decomposed Euribor/OIS already prices July near 18%, the edge
+shrinks - size accordingly.
+This is my probability, published before resolution. Not investment advice.
