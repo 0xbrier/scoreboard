@@ -2,4 +2,4 @@ call_id,date_published,market,question,side,fill_price_cents,market_prob,my_prob
 001,2026-06-10,Polymarket,"BTC touches $50,000 in June 2026 (Binance 1m low)",NO,87.0,0.130,0.080,2026-06-30,open,crypto-btc-down,e663c984a0640bed50371560cd6bff92967f4f6c97d6d2097476b8332afa842b
 002,2026-06-11,Polymarket,SpaceX IPO day-1 closing price >= $250,NO,95.5,0.045,0.015,2026-06-12,0,equity-ipo,658b5f88b62b1aea64a237f15ce20b983707111515dc059e5fb0f8c7b4c04d7b
 003,2026-06-12,Polymarket,Fed Decision in July — 25 bps increase,YES,5.0,0.049,0.077,2026-07-29,open,rates-fomc,ca4c0f5faad37c81dfb2845aa22007e453daefbfbe5850ba898ee1b3e3b7bb95
-004,2026-06-13,Polymarket,"ECB July 2026 - 25 bps increase",NO,83.0,0.186,0.12,2026-07-23,open,rates-ecb,FILLED_BY_PUBLISH
+004,2026-06-13,Polymarket,"ECB July 2026 - 25 bps increase",NO,83.0,0.186,0.12,2026-07-23,open,rates-ecb,31aabe7236df923f6527bb4c268a2a5b41eba2d7bf7654184f9790dd8c83543e
