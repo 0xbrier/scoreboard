@@ -4,3 +4,4 @@ call_id,date_published,market,question,side,fill_price_cents,market_prob,my_prob
 003,2026-06-12,Polymarket,Fed Decision in July — 25 bps increase,YES,5.0,0.049,0.077,2026-07-29,open,rates-fomc,ca4c0f5faad37c81dfb2845aa22007e453daefbfbe5850ba898ee1b3e3b7bb95
 004,2026-06-13,Polymarket,"ECB July 2026 - 25 bps increase",NO,83.0,0.186,0.12,2026-07-23,open,rates-ecb,31aabe7236df923f6527bb4c268a2a5b41eba2d7bf7654184f9790dd8c83543e
 005,2026-06-15,Polymarket,Will MicroStrategy announce bankruptcy before 2027?,NO,93.0,0.070,0.020,2026-12-31,open,crypto-mstr,cc756a1a493f3cb23535473c623c2eb171654e90f7787d779619be8d192a5d23
+006,2026-06-15,Polymarket,"Will MicroStrategy announce holding 1,000,000 BTC by December 31, 2026?",NO,73.0,0.270,0.200,2026-12-31,open,crypto-mstr,5720b8249a2628fa797661c80866e9872881649a7b80c6724d78e91425a63873

@@ -1,0 +1,12 @@
+0xBRIER CALL #006
+Date: 2026-06-15
+Market: Polymarket "Will MicroStrategy announce holding 1,000,000 BTC by December 31, 2026?"
+Resolution: MicroStrategy/Saylor officially announce total BTC holdings of at least 1,000,000 at any point by Dec 31 2026 23:59 ET
+Side: BUY NO — filled @ 73.0c
+Market-implied P(YES): 27.0%
+My calibrated P(YES): 20.0% [range 12–28%]
+Edge: +7.0 pts on NO
+Sizing: 1/4 Kelly, ~6% bankroll
+Thesis: (1) Arithmetic — ~845k BTC on Jun 7; reaching 1.0M by Dec 31 needs ~155k more in ~6.5 months (~24k/mo), Q1's pace but not the current one. (2) The accumulation engine has stalled mechanically — MSTR trades ~0.83–0.86x mNAV, a discount to its own BTC, so issuing common to buy BTC dilutes BTC-per-share; recent tape: 32 BTC sold late May for dividends, only ~1,550 bought the first week of June vs multi-thousand per week in Q1. (3) Not zero — Saylor favors round-number milestones, the 42/42 plan has ~$34B authorized issuance left, and a hard BTC rally could restore the premium and restart buying.
+Loss scenario: An H2 BTC rally restores the mNAV premium and accretive issuance, or Saylor forces the 1M milestone via preferred/converts at bad terms.
+This is my probability, published before resolution. Not investment advice.
