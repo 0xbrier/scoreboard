@@ -1,0 +1,12 @@
+0xBRIER CALL #005
+Date: 2026-06-15
+Market: Polymarket "Will MicroStrategy announce bankruptcy before 2027?"
+Resolution: MicroStrategy announces or files for bankruptcy (any variety) by Dec 31 2026 23:59 ET; official channels or a definitive consensus of credible reporting suffice
+Side: BUY NO — filled @ 93.0c
+Market-implied P(YES): 7.0%
+My calibrated P(YES): 2.0% [range 0.5–4.5%]
+Edge: +5.0 pts on NO
+Sizing: 1/4 Kelly, hair-cut for tail uncertainty, ~5–8% bankroll
+Thesis: (1) No debt wall in the window — the earliest convertible-note put is Sep 15 2027, after resolution. (2) Overwhelming asset coverage: ~845k BTC vs ~$6.75B debt, net leverage ~11%, no forced-sale triggers; a voluntary filing would be irrational. (3) The YES is a sentiment premium — Saylor-as-guru polarization and a "house of cards" camp bid the bankruptcy ticket up, amplified by the BTC drawdown.
+Loss scenario: Fraud or key-loss catastrophe, or the broad "credible reporting" wording triggering on bankruptcy-talk headlines during deep BTC stress.
+This is my probability, published before resolution. Not investment advice.
